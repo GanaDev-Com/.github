@@ -23,11 +23,11 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
 
 ## 📊 Github Grafik
-[![Github Grafik](https://github-readme-stats.vercel.app/api?username=GanaDev-Com&show_icons=true&theme=radical)](https://github.com/GanaDev-Com)
+[![Github Grafik](https://github-readme-stats.vercel.app/api?username=ganadev-com&show_icons=true&theme=radical)](https://github.com/ganadev-com)
 
 ## 📊 Contribution Resume
-[![Contribution Resume](https://streak-stats.demolab.com?user=GanaDev-Com&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/GanaDev-Com)
+[![Contribution Resume](https://streak-stats.demolab.com?user=ganadev-com&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://github.com/ganadev-com)
 
 ## 🔧 Programming Language Statistics
 
-[![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=GanaDev-Com&langs_count=5&layout=compact&theme=radical)](https://github.com/GanaDev-Com)
+[![Programming Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ganadev-com&langs_count=5&layout=compact&theme=radical)](https://github.com/ganadev-com)
